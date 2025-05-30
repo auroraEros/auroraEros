@@ -98,9 +98,9 @@ OOP-based app for managing products and categories. LocalStorage is used for per
 
 Feel free to connect with me:
 
-- GitHub: [@auroraEros](https://github.com/auroraEros)
-- Email: `sahar.javadi.h@gmail.com` 
-- LinkedIn: `https://www.linkedin.com/in/sahar-javadi-7000b2214/`
+- GitHub: [@auroraEros](https://github.com/auroraEros)  
+- Email: [sahar.javadi.h@gmail.com](mailto:sahar.javadi.h@gmail.com)  
+- LinkedIn: [Sahar Javadi](https://www.linkedin.com/in/sahar-javadi-7000b2214/)
 
 ---
 
