@@ -1,82 +1,108 @@
-<h1 align="center">Hi there, I'm Sahar 👋</h1>
+# 🌟 AuroraEros | Frontend Developer Portfolio
 
-<p align="center">
-  A passionate <strong>Frontend Developer</strong> with a love for clean code, beautiful interfaces, and user-first design.
-</p>
+Welcome to my project showcase! I'm a frontend developer passionate about building responsive, user-friendly, and high-performance web applications. This repository highlights a variety of projects I've built using modern technologies such as React, Next.js, TailwindCSS, Supabase, TypeScript, and more.
+
+---
+
+## 🚀 Projects
+
+### 1. **The Wild Oasis Admin Page**
+A SPA dashboard for managing a fictional vacation rental business. Built with React, TailwindCSS, and Supabase. Features include real-time data, dark mode, and a seamless UI.
+
+🔗 [Live Demo](https://the-wild-oasis-admin-six.vercel.app/) • [GitHub](https://github.com/auroraEros/the_wild_oasis_admin)
+
+---
+
+### 2. **The Wild Oasis Customer Website**
+Customer-facing website for booking cabins. Includes Google Auth, booking management, and responsive UI built with Next.js and Supabase.
+
+🔗 [Live Demo](https://the-wild-oasis-customer-website-drab.vercel.app/) • [GitHub](https://github.com/auroraEros/the_wild_oasis_customer_website)
+
+---
+
+### 3. **Personal Portfolio**
+A responsive and minimal portfolio built with React and TailwindCSS to showcase my frontend work.
+
+🔗 [Live Demo](https://my-portfolio-nu-ten-56.vercel.app/) • [GitHub](https://github.com/auroraEros/my-portfolio)
+
+---
+
+### 4. **Blog Management System**
+Full-featured blog platform with role-based dashboard, Clerk auth, MongoDB backend, Supabase image upload, and dark mode.
+
+🔗 [Live Demo](https://sahar-blog.vercel.app/) • [GitHub](https://github.com/auroraEros/next-blog)
+
+---
+
+### 5. **Pizza Delivery App**
+Simple pizza ordering UI using React, Redux, and React Router. Users can add items to cart and simulate an order process.
+
+🔗 [Live Demo](https://react-pizza-xi-kohl.vercel.app/) • [GitHub](https://github.com/auroraEros/react-pizza)
+
+---
+
+### 6. **Note App (TypeScript)**
+A basic note-taking app built with React + TypeScript to practice type safety and component design.
+
+🔗 [Live Demo](https://aurora-note-app.netlify.app/) • [GitHub](https://github.com/auroraEros/note-app-typescript)
+
+---
+
+### 7. **Todo List**
+Vanilla JavaScript Todo app with filtering, localStorage persistence, and responsive layout.
+
+🔗 [Live Demo](https://auorora-todo-list.netlify.app/) • [GitHub](https://github.com/auroraEros/toDoList)
+
+---
+
+### 8. **OmniFood**
+Landing page for a food delivery service. Built with modern responsive techniques using HTML, Tailwind, and Vite.
+
+🔗 [Live Demo](https://aurora-omnifood.netlify.app/) • [GitHub](https://github.com/auroraEros/omniFood)
+
+---
+
+### 9. **Trillo (SCSS Landing Page)**
+Responsive hotel booking landing page using Flexbox, CSS Grid, and SCSS with a modular design structure.
+
+🔗 [Live Demo](https://aurora-trillo.netlify.app/) • [GitHub](https://github.com/auroraEros/trillo)
+
+---
+
+### 10. **Roulette Dice Game**
+A creative two-player game mixing Russian roulette and dice mechanics. Face off against AI and test your survival!
+
+🔗 [Live Demo](https://the-roulette-dice-game.netlify.app/) • [GitHub](https://github.com/auroraEros/the-roulette-dice-game)
+
+---
+
+### 11. **Inventory Management App**
+OOP-based app for managing products and categories. LocalStorage is used for persistent data handling.
+
+🔗 [Live Demo](https://aurora-inventory.netlify.app/) • [GitHub](https://github.com/auroraEros/Inventory-App-with-OOP)
 
 ---
 
 ## 🧰 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-</p>
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3, SCSS
+- **Frameworks:** React, Next.js
+- **State Management:** Redux, React Context
+- **Styling:** TailwindCSS, CSS Modules
+- **Backend Services:** Supabase, Clerk, MongoDB
+- **Tools:** Vite, Git, GitHub, Netlify, Vercel
 
 ---
 
-## 💼 Featured Projects
+## 📬 Contact
 
-Here are some of my favorite projects — all built with love, care, and attention to detail.
+Feel free to connect with me:
 
-### 🔫 [Gun Dice Game](https://github.com/auroraEros/gun-dice-game)
-A 2-player turn-based game built with React and TailwindCSS. Roll the dice, shoot the gun, and beat your opponent before the timer runs out.
-
-- 🎲 Dice logic
-- 🔫 Gun mechanics (health & damage)
-- ⏱️ Countdown timer
-- ⚡ Fully responsive UI
-
-> **[🔗 Live Demo](https://your-vercel-link.vercel.app)**
+- GitHub: [@auroraEros](https://github.com/auroraEros)
+- Email: `sahar.javadi.h@gmail.com` 
+- LinkedIn: `https://www.linkedin.com/in/sahar-javadi-7000b2214/`
 
 ---
 
-### 🌐 [Portfolio Website](https://github.com/auroraEros/portfolio)
-A clean, responsive personal website showcasing my skills, projects, and contact information.
+> “Crafting clean code and meaningful UI experiences — one project at a time.”
 
-- Built with **Next.js** and **TailwindCSS**
-- Custom animations & transitions
-- Contact via LinkedIn, GitHub, and WhatsApp
-
-> **[🔗 Live Demo](https://your-portfolio-link.vercel.app)**
-
----
-
-### 📊 [Admin Dashboard](https://github.com/auroraEros/admin-dashboard)
-An elegant and functional admin panel interface with charts, stats, and filterable data views.
-
-- Dashboard layout
-- Dynamic components
-- Mobile-first responsive design
-
----
-
-## 📬 Let's Connect
-
-Feel free to reach out for collaboration, freelancing, or just to say hello 👋
-
-<p>
-  <a href="https://www.linkedin.com/in/sahar-javadi-7000b2214/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/auroraEros" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wa.me/989122602818" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://t.me/aurora_eros" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  💻 Building things with React & Next.js | 🎨 Styling with Tailwind | 
-</p>
