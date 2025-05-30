@@ -1,4 +1,4 @@
-# 🌟 AuroraEros | Frontend Developer Portfolio
+# 🌟 Sahar Javadi| Frontend Developer Portfolio
 
 Welcome to my project showcase! I'm a frontend developer passionate about building responsive, user-friendly, and high-performance web applications. This repository highlights a variety of projects I've built using modern technologies such as React, Next.js, TailwindCSS, Supabase, TypeScript, and more.
 
